@@ -1,0 +1,52 @@
+colleges = {
+    "University of North Carolina at Charlotte": {
+        "majors": {
+            'Biology, B.S.': [],
+            'Business Analytics, B.S.B.A.': [],
+            'Chemistry, B.S.': [],
+            'Computer Science, AI, Robotics, and Gaming Concentration, B.S.': [],
+            'Economics, Business Concentration, B.S.': [],
+            'English, B.A.': [],
+            'Geography, B.S.': [],
+            'History, B.A.': [],
+            'Mathematics, B.S.': [],
+            'Philosophy, B.A.': [],
+            'Political Science, B.A.': [],
+        },
+        "bachelors_degrees_link": "https://academics.charlotte.edu/programs/undergraduate/bachelors",
+    },
+    "University of North Carolina at Chapel Hill": {
+        "majors": {
+            'Biology Major, B.S.': [],
+            'Business Administration Major, B.S.B.A.': [],
+            'Chemistry Major, B.S.': [],
+            'Computer Science Major, B.S.': [],
+            'Economics Major, B.S.': [],
+            'English and Comparative Literature Major, B.A.': [],
+            'Geography Major, B.A.': [],
+            'History Major, B.A.': [],
+            'Mathematics Major, B.S.': [],
+            'Philosophy Major, B.A.': [],
+            'Political Science Major, B.A.': [],
+        },
+        "bachelors_degrees_link": "https://catalog.unc.edu/undergraduate/programs-study/",
+    },
+    "North Carolina State University": {
+        "majors": {
+            'Biochemistry (BS)': [],
+            'Business Administration (BS)': [],
+            'Chemistry (BS)': [],
+            'Computer Science (BS)': [],
+            'Economics (BS)': [],
+            'Engineering (BS)': [],
+            'English (BA): Creative Writing Concentration': [],
+            'Genetics (BS)': [],
+            'Geology (BS)': [],
+            'History (BA)': [],
+            'Mathematics (BS)': [],
+            'Philosophy (BA)': [],
+            'Political Science (BA)': [],
+        },
+        "bachelors_degrees_link": "https://catalog.ncsu.edu/undergraduate/#majorstext",
+    }
+}
