@@ -1,5 +1,2 @@
 chromedriver-mac-arm64/
 .idea/
-web_scrape_test.py
-selenium_scraping.py
-README.txt
